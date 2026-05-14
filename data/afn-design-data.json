@@ -1,0 +1,401 @@
+{
+  "architecture_projects": [
+    {
+      "nama_project": "K house",
+      "lokasi": "Kuningan, Jawa Barat",
+      "tahun": "2017",
+      "luas_tanah": "292.62 m2",
+      "luas_bangunan": "207.45 m2",
+      "konsep": "Modern Minimalis Tropis",
+      "deskripsi": "Lokasi memiliki level ketinggian tanah yang lebih tinggi daripada level jalan, sehingga split level digunakan sebagai konsep dari bangunan ini, orientasi banguna di sesuaikan menghadap jalan utama dengan banyaknya bukaan jendela yang berfungsi sebagai pencahayaan alami.",
+      "imageSlug" : "k-house-",
+      "totalImage" : 2
+    },
+    {
+      "nama_project": "Poci house",
+      "lokasi": "Bogor, Jawa Barat",
+      "tahun": "2017",
+      "luas_tanah": "75 m2",
+      "luas_bangunan": "135 m2",
+      "konsep": "Modern Tropis",
+      "deskripsi": "Kondisi lahan sudah terdapat bangunan eksisting 1 lantai, yang kemudian di renovasi dengan mempertahankan beberapa ruangan sebelumnya dan merubah ruangan eksisting menjadi open space.",
+      "imageSlug" : "poci-house-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "BS house",
+      "lokasi": "Bogor, Jawa Barat",
+      "tahun": "2019",
+      "luas_tanah": "128 m2",
+      "luas_bangunan": "169.57 m2",
+      "konsep": "Modern Minimalis",
+      "deskripsi": "Terdapat di lahan yang terbatas, tetapi diharuskan memenuhi kebutuhan ruang sesuai keinginan dari client, konsep dibuat open space di lantai 1 agar memberikan kesan luas, selain itu pencahayaan dan pengahawaan alami sangat diperhatikan pada desain rumah ini.",
+      "imageSlug" : "bs-house-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "MA house",
+      "lokasi": "Tangerang, Banten",
+      "tahun": "2019",
+      "luas_tanah": "66 m2",
+      "luas_bangunan": "42 m2",
+      "konsep": "Shabby Chic",
+      "deskripsi": "Konsep Shabby chic di terapkan pada eksterior rumah ini sesuai dengan keinginan pemilik yang menginginkan rumah berbeda dengan sekitarnya sehingga dapat lebih memiliki kesan terhadap orang orang yang melihatnya.",
+      "imageSlug" : "ma-house-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "SU house",
+      "lokasi": "Sunter, Jakarta Utara",
+      "tahun": "2019",
+      "luas_tanah": "204 m2",
+      "luas_bangunan": "255.14 m2",
+      "konsep": "Tropis",
+      "deskripsi": "Menerapkan sedikit gaya jepang pada material fasad, sesuai keinginan pemilik yang menginginkan unsur kayu, dipadukan dengan kesan tropis pada atap yang lebih maju dibandingkan dinding fasad.",
+      "imageSlug" : "su-house-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "TP house",
+      "lokasi": "Jakarta",
+      "tahun": "2020",
+      "luas_tanah": "105 m2",
+      "luas_bangunan": "210 m2",
+      "konsep": "Tropis",
+      "deskripsi": "Fasad yang menghadap ke arah berat, menyebabkan intensitas cahaya matahari pada sore hari sangatlah tinggi, dengan memberikan secondary skin pada area fasad dapat meminimalisir hal tersebut.",
+      "imageSlug" : "tp-house-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "KC house",
+      "lokasi": "Tangerang, Banten",
+      "tahun": "2020",
+      "luas_tanah": "60 m2",
+      "luas_bangunan": "80 m2",
+      "konsep": "Minimalis Modern",
+      "deskripsi": "Lahan yang sangat terbatas di manfaatkan sebaik mungkin untuk memenuhi kebutuhan ruang, konsep open space di gunakan pada rumah ini, selain itu, fasad dibuat minimalis dengan memaksimalkan ruangan di dalamnya",
+      "imageSlug" : "kc-house-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "SP house",
+      "lokasi": "Depok",
+      "tahun": "2020",
+      "luas_tanah": "84 m2",
+      "luas_bangunan": "180 m2",
+      "konsep": "Modern Minimalis",
+      "deskripsi": "Lahan yang sangat terbatas di manfaatkan sebaik mungkin, dengan menerapkan konsep split level pada area dalam rumah, diman tampak dari luar terlihat hanya 2 lantai, namun di bagian dalam di buat 3 lantai dengan roftoop di bagian atasnya.",
+      "imageSlug" : "sp-house-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "BG house",
+      "lokasi": "Bogor",
+      "tahun": "2020",
+      "luas_tanah": "75 m2",
+      "luas_bangunan": "90 m2",
+      "konsep": "Split Level",
+      "deskripsi": "Bangunan yang sudah ada di buat split level pada bagian dalamnya tanpa merubah fasad yang sudah ada, dengan mempertahankan banyak kondisi eksisting",
+      "imageSlug" : "bg-house-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "PK house",
+      "lokasi": "Tangerang, Banten",
+      "tahun": "2020",
+      "luas_tanah": "72 m2",
+      "luas_bangunan": "124 m2",
+      "konsep": "Modern Minimalis",
+      "deskripsi": "Konsep split level di rancang pada bangunan ini, dikarenakan lahan yang terbatas, namun kebutuhan ruang banyak, dan agar tetap terasa luas open space di gunakan pada area interior rumah ini",
+      "imageSlug" : "pk-house-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "CN house",
+      "lokasi": "Cianjur",
+      "tahun": "2021",
+      "luas_tanah": "50 m2",
+      "luas_bangunan": "80 m2",
+      "konsep": "Modern Minimalis",
+      "deskripsi": "Lahan yang sangat kecil ini sangat di maksimalkan untuk memnuhi kebutuhan ruang, dengan memperhatikan pencahayaan dan penghawaan alami, serta kesan luas ketika memasuki ruang, semua kita padukan dalam satu desain ini.",
+      "imageSlug" : "cn-house-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "CM house",
+      "lokasi": "Cinere, Depok",
+      "tahun": "2021",
+      "luas_tanah": "108 m2",
+      "luas_bangunan": "175 m2",
+      "konsep": "Minimalis",
+      "deskripsi": "Rumah eksisting yang memiliki layout yang unik, kita rancang sedemikian rupa, dengan menerapkan konsep open space, pencahyaan dan pengahwaan alami pada ruang, dan merubah keseluruhan fasad menjadi minimalis dengan memainkan warna putih dan unsur kayu sesuai keinginan client.",
+      "imageSlug" : "cm-house-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "BMW house",
+      "lokasi": "Serang, Banten",
+      "tahun": "2021",
+      "luas_tanah": "84 m2",
+      "luas_bangunan": "120 m2",
+      "konsep": "Modern Minimalis",
+      "deskripsi": "Rumah 1 lantai yang kemudian di renovasi menjadi 2 lantai, dimana pada pembangunan dibuat menjadi bertahap, sehingga desain di sesuaikan agar kedepannya dapat dibangun menjadi 2 lantai tanpa banyak merubah kondisi yang saat ini.",
+      "imageSlug" : "bmw-house-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "SA house",
+      "lokasi": "Sukabumi, Jawa Barat",
+      "tahun": "2021",
+      "luas_tanah": "1000 m2",
+      "luas_bangunan": "139 m2",
+      "konsep": "Minimalis",
+      "deskripsi": "Rumah dibuat dengan konsep open space, dimana ruangan akan terasa luas, dengan sedikit ruang di dalamnya dan memisahkan antara ruang pivat dengan public, bukaan dibuat banyak pada fasad.",
+      "imageSlug" : "sa-house-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "DH house",
+      "lokasi": "Depok, Jawa Barat",
+      "tahun": "2021",
+      "luas_tanah": "115 m2",
+      "luas_bangunan": "180 m2",
+      "konsep": "Modern Minimalis",
+      "deskripsi": "Rumah dengan konsep minimalis pada area fasad, sedangkan pada area iterio lantai pertama berkonsep open space dengan tema semi industrial, semua kebutuhan ruang client dipenuhi pada design rumah ini, bahkan rooftop.",
+      "imageSlug" : "dh-house-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "TH house",
+      "lokasi": "Sukabumi, Jawa Barat",
+      "tahun": "2021",
+      "luas_tanah": "102 m2",
+      "luas_bangunan": "175.45 m2",
+      "konsep": "Minimalis",
+      "deskripsi": "Konsep split level di pilih sesuai keinginan client dikarenakan lahan yang terbatas namun keinginan untuk memilik ruang yang banyak, fasad dibuat minimlis dan sentuhan tropis pada bagian atap.",
+      "imageSlug" : "th-house-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "CI house",
+      "lokasi": "Tangerang Selatan",
+      "tahun": "2021",
+      "luas_tanah": "84 m2",
+      "luas_bangunan": "47 m2",
+      "konsep": "Modern Minimalis",
+      "deskripsi": "Keinginan memiliki rumah yang minimalis dengan ruang yang luas di dalamnya,. maka konsep open space di gunakan pada bangunan ini, bukan hanya itum bangunan ini pun dibuat agar dapat menjadi bangunan tumbuh, dimana rencana lantai berikutnya sudah di buat juga.",
+      "imageSlug" : "ci-house-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "CI 2 house",
+      "lokasi": "Tangerang Selatan",
+      "tahun": "2021",
+      "luas_tanah": "84 m2",
+      "luas_bangunan": "47 m2",
+      "konsep": "Modern Minimalis",
+      "deskripsi": "Kelanjutan dari design rumah sebelumnya yang hanya 1 lantai, ini ada perubahan yang terjadi dengan konsep rumah tumbuh, dimana pada lantai 1 sangat minim perubahan. bahkan terdapat area roftoop di dalamnya.",
+      "imageSlug" : "ci-2-house-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "MS house",
+      "lokasi": "Surabaya",
+      "tahun": "2021",
+      "luas_tanah": "75 m2",
+      "luas_bangunan": "121.97 m2",
+      "konsep": "Minimalis",
+      "deskripsi": "merupakan kaving kosong, yang boleh dibuat design berbeda dengan yang lainnya dengan memenuhi aturan yang sudah diterapkan, konsep open space serta penghawaan dan pencahayaan alami, sangat diperhatikan, bukan hanya itu kebutuhan ruang pemilikpun sangat diperhatikan pada rumah ini,",
+      "imageSlug" : "ms-house-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "Mesjid Al-Adil",
+      "lokasi": "Lebak Bulus, Jakarta Selatan",
+      "tahun": "2021",
+      "luas_tanah": "-",
+      "luas_bangunan": "-",
+      "konsep": "Minimalis",
+      "deskripsi": "Renovasi sebagian area yang ada, tanpa merusak bangunan eksisting, kecuali area wudhu, mengcover seluruh tiang yang ada kita pilih untuk memberikan kesan baru pada mesjid ini.",
+      "imageSlug" : "mesjid-al-adil-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "JBE house",
+      "lokasi": "Jakarta Barat",
+      "tahun": "2021",
+      "luas_tanah": "225 m2",
+      "luas_bangunan": "483.03 m2",
+      "konsep": "Modern",
+      "deskripsi": "Bangunan di buat tiga lantai dengan area bawah sebagai area service, fasad dibuat 2 sisi di area depan dan belakang, di karenakan posisi lahan diapit oleh 2 jalan dimana salah satu fasad menjadi area masuk atau area utama. pada area dalam dibuat taman di tengah rumah sesuai keinginan dari pihak client.",
+      "imageSlug" : "jbe-house-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "GC house",
+      "lokasi": "Cikarang, Bekasi",
+      "tahun": "2021",
+      "luas_tanah": "84 m2",
+      "luas_bangunan": "110.9 m2",
+      "konsep": "Modern Tropis",
+      "deskripsi": "Pada fasad dibuat minimalis dengan memainkan material kayu dan warna minimalis, ditambah dengan penggunaan atap yang dijadikan sebagai permaina fasad. pada interior kita selalu menerpakan konsep open space, dengan memperhatikan pencahayaan dan penghawaan alami tentunya.",
+      "imageSlug" : "gc-house-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "JBR house",
+      "lokasi": "Meruya, Jakarta Barat",
+      "tahun": "2021",
+      "luas_tanah": "250 m2",
+      "luas_bangunan": "333.63 m2",
+      "konsep": "Minimalis",
+      "deskripsi": "Fasad di buat sebersih mungkin dengan memainkan warna putih dan sedikit bata ekspos, untuk area dalam menggunakan konsep open space untuk area public, dan beberapa kamar dengan konsep mezzanine.",
+      "imageSlug" : "jbr-house-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "QS house",
+      "lokasi": "Harapan Indah, Bekasi",
+      "tahun": "2021",
+      "luas_tanah": "260 m2",
+      "luas_bangunan": "300 m2",
+      "konsep": "Minimalis",
+      "deskripsi": "Keinginan dari client menggunakan warna putih dan hitam pada area fasad kita siasatkan dengan memberikan warna hitam pada bagian tertentu saja, untuk area dalam dibut open space.",
+      "imageSlug" : "qs-house-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "JP house",
+      "lokasi": "Jakarta",
+      "tahun": "2021",
+      "luas_tanah": "286 m2",
+      "luas_bangunan": "321 m2",
+      "konsep": "Modern Tropis",
+      "deskripsi": "Client menginginkan fasad yang terlihat 1 lantai tetapi ada terdapat akses kelantai 2 yang dijadikan roftop sementara sebelum dibangun kembali, makan kami pilih atap miring dengan plafon yang mengikuti bentuk atap untuk membuat ruang di lantai 2.",
+      "imageSlug" : "jp-house-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "BL house",
+      "lokasi": "Lebak bulus",
+      "tahun": "2021",
+      "luas_tanah": "80 m2",
+      "luas_bangunan": "20 m2",
+      "konsep": "Modern",
+      "deskripsi": "Client mengingkan area duduk untuk bersantai di taman belakangnya, dimana terdapat kolam ikan di area tersebut, kita buat gazebo dengan konsep protable dan panggung, sehingga tidak merusak taman yang sudah ada",
+      "imageSlug" : "bl-house-",
+      "totalImage" : 4
+    }
+  ],
+  "interior_projects": [
+    {
+      "nama_project": "PL Office",
+      "lokasi": "Balikpapan",
+      "tahun": "2017",
+      "luas_tanah": "200 m2",
+      "luas_bangunan": "170 m2",
+      "konsep": "Modern",
+      "deskripsi": "Keinginan client memilik kantor yang terbuka, dan kesan luas tapi memenuhi kebutuhan ruangnya, maka daripada itu konsep minimalis dengan open space kita gunakan pada desain kantor ini.",
+      "imageSlug" : "pl-office-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "Kedai Artha",
+      "lokasi": "Kuningan, Jawa Barat",
+      "tahun": "2018",
+      "luas_bangunan": "300 m2",
+      "konsep": "Industrial",
+      "deskripsi": "Sesuai dengan keinginan dari client yang menginginkan interior dari café ini industrila, dibuatlah konsep industrial dengan memainkan material yang lebih banyak terekspos.",
+      "imageSlug" : "kedai-artha-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "Apartment The Grand Lengham",
+      "lokasi": "Jakarta",
+      "tahun": "2018",
+      "luas_bangunan": "356 m2",
+      "konsep": "Minimlais",
+      "deskripsi": "Keinginan client memainkan texture kayu dan warna hitam, kita aplikasikan pada furniture apartemen ini",
+      "imageSlug" : "langham-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "Jk Apartment",
+      "lokasi": "Jakarta",
+      "tahun": "2017",
+      "luas_tanah": "15 m2",
+      "luas_bangunan": "20 m2",
+      "konsep": "Industrial",
+      "deskripsi": "Client memilik 1 ruang yang ingin dibuat konsep mezzanine, dengan area bawah untuk walk in closet dan area duduk atau kerja, sedangkan area atas di jadikan untuk ruang tidur, penerapan unsur kayu dan warna hitam dipilih untuk memberikan kesan industrial",
+      "imageSlug" : "jk-house-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "BS House",
+      "lokasi": "Familia Urban, Bekasi",
+      "tahun": "2021",
+      "luas_bangunan": "33 m2",
+      "konsep": "Minimalis",
+      "deskripsi": "Pada area interior memadukan unsur warna putih dan tekstur kayu, sesuai dengan keingina pihak client.",
+      "imageSlug" : "bs-house-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "Twenties Coffee",
+      "lokasi": "Jakarta",
+      "tahun": "2020",
+      "luas_bangunan": "24 m2",
+      "konsep": "Contemporer",
+      "deskripsi": "Bentuk logo menjadi salah satu yang di terapkan pada beberapa bagian, hal ini bertujuan untuk menjadikannya suatu ke khasan pada design ini.",
+      "imageSlug" : "twenties-coffee-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "R.meeting Kredit pintar Office",
+      "lokasi": "Jakarta",
+      "tahun": "2020",
+      "luas_bangunan": "42 m2",
+      "konsep": "Minimlais",
+      "deskripsi": "Design ruang meeting dengan konsep multiple ruang, dimana 1 ruang besar bisa dijadikan 2 ruang kecil. konsep partisi dan furniture sangat dipehatikan dalam konsep ini.",
+      "imageSlug" : "kredit-pintar-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "5060 booth",
+      "lokasi": "Jakarta",
+      "tahun": "2020",
+      "luas_bangunan": "18 m2",
+      "konsep": "-",
+      "deskripsi": "Booth untuk sebuah pameran produk local, dimana konsep berdasarkan dari ciri khas brand tersebut, yang kemudian di kombinasikan dengan pihak sponsor",
+      "imageSlug" : "5080-booth-",
+      "totalImage" : 4
+    }
+  ],
+  "animations_projects": [
+    {
+      "nama_project": "TA Stasiun Kereta",
+      "tahun": "2017",
+      "client": "Mahasiswa",
+      "deskripsi": "Visualisai interior stasiun kereta untuk menunjang kebutuhan tugas akhir teknik arsitektur",
+      "imageSlug" : "ta-stasiun-kereta-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "TA Terminal Bus",
+      "tahun": "2017",
+      "client": "Mahasiswa",
+      "deskripsi": "Visualisai interior terminal bus untuk menunjang kebutuhan tugas akhir teknik arsitektur",
+      "imageSlug" : "ta-terminal-bus-",
+      "totalImage" : 4
+    },
+    {
+      "nama_project": "Staffalo Werehouse",
+      "lokasi": "Arcamanik, Bandung",
+      "tahun": "2019",
+      "client": "Profesional Architect",
+      "deskripsi": "Visualisai interior dan eksterior sebuah retail pakaian yang berlokasi di bandung.",
+      "imageSlug" : "staffalo-",
+      "totalImage" : 4
+    }
+  ]
+}

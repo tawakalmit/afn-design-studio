@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Proyek Arsitektur & Interior | AFN Design Studio</title>
+    <meta name="description" content="Lihat koleksi lengkap proyek arsitektur, interior design, dan animasi 3D dari AFN Design Studio. Lebih dari 50 proyek di seluruh Indonesia.">
+    <meta name="keywords" content="portfolio arsitektur, proyek interior design, desain rumah modern minimalis, proyek renovasi, 3D animasi arsitektur, AFN Design Studio portfolio">
+    <meta name="author" content="AFN Design Studio">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://afndesign.id/projects.html">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://afndesign.id/projects.html">
+    <meta property="og:title" content="Portfolio Proyek Arsitektur & Interior | AFN Design Studio">
+    <meta property="og:description" content="Koleksi lengkap proyek arsitektur, interior design, dan animasi 3D. Lebih dari 50 proyek di seluruh Indonesia.">
+    <meta property="og:image" content="https://afndesign.id/images/afndesign-logo-black.png">
+    <meta property="og:locale" content="id_ID">
+    <meta property="og:site_name" content="AFN Design Studio">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Portfolio Proyek Arsitektur & Interior | AFN Design Studio">
+    <meta name="twitter:description" content="Koleksi lengkap proyek arsitektur, interior design, dan animasi 3D dari AFN Design Studio.">
+    <meta name="twitter:image" content="https://afndesign.id/images/afndesign-logo-black.png">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+    <link rel="manifest" href="images/site.webmanifest">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="projects.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar scrolled" id="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="nav-logo">
+                <img src="images/afndesign-logo-black.png" alt="AFN Design Studio" class="nav-logo-img nav-logo-black">
+                <div class="nav-logo-text">
+                    <span class="logo-title">AFN Design</span>
+                    <span class="logo-subtitle">Studio</span>
+                </div>
+            </a>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="index.html#about">About</a></li>
+                <li><a href="index.html#services">Services</a></li>
+                <li><a href="projects.html" class="active">Projects</a></li>
+                <li><a href="index.html#contact">Contact</a></li>
+            </ul>
+            <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Page Header -->
+    <section class="page-header">
+        <div class="container">
+            <span class="section-tag">Portfolio</span>
+            <h1 class="page-title">Our Projects</h1>
+            <p class="page-desc">Explore our complete collection of architectural, interior, and animation projects across Indonesia.</p>
+        </div>
+    </section>
+
+    <!-- Projects Content -->
+    <section class="section projects-page">
+        <div class="container">
+            <!-- Filter Buttons -->
+            <div class="project-filters">
+                <button class="filter-btn active" data-filter="all">All Projects</button>
+                <button class="filter-btn" data-filter="architecture">Architecture</button>
+                <button class="filter-btn" data-filter="interior">Interior</button>
+                <button class="filter-btn" data-filter="animations">Animations</button>
+            </div>
+
+            <!-- Project Count -->
+            <div class="projects-count">
+                <span id="projectCount">0</span> projects found
+            </div>
+
+            <!-- Projects Grid -->
+            <div class="projects-grid-page" id="projectsGrid">
+                <!-- Projects will be loaded here via JS -->
+            </div>
+
+            <!-- Load More Button -->
+            <div class="load-more-wrapper" id="loadMoreWrapper">
+                <button class="btn btn-primary" id="loadMoreBtn">Load More Projects</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <a href="index.html" class="footer-logo">
+                        <img src="images/afndesign-logo-white.png" alt="AFN Design Studio" class="footer-logo-img">
+                        <div class="footer-logo-text">
+                            <span class="logo-title">AFN Design</span>
+                            <span class="logo-subtitle">Studio</span>
+                        </div>
+                    </a>
+                </div>
+                <div class="footer-links">
+                    <a href="index.html">Home</a>
+                    <a href="index.html#about">About</a>
+                    <a href="index.html#services">Services</a>
+                    <a href="projects.html">Projects</a>
+                    <a href="index.html#contact">Contact</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>2024 AFN Design Studio</p>
+                <span style="font-size: 10px; color: white;">Website By <a target="_BLANK" href="https://tawakalmit.my.id" style="color: #f1c40f;">tawakalmit</a></span>
+            </div>
+        </div>
+    </footer>
+
+    <script src="projects.js"></script>
+</body>
+</html>

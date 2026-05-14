@@ -1,0 +1,222 @@
+/* ===== Project Detail Page Styles ===== */
+
+.project-detail-section {
+    padding: 140px 0 120px;
+}
+
+/* Back Link */
+.back-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--text-light);
+    margin-bottom: 40px;
+    transition: var(--transition);
+}
+
+.back-link:hover {
+    color: var(--accent);
+}
+
+/* Project Header */
+.project-detail-header {
+    margin-bottom: 48px;
+}
+
+.project-detail-header .detail-category {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--white);
+    background: var(--accent);
+    padding: 6px 14px;
+    margin-bottom: 16px;
+}
+
+.project-detail-header .detail-title {
+    font-size: clamp(2rem, 4vw, 3rem);
+    color: var(--primary);
+    margin-bottom: 12px;
+}
+
+.project-detail-header .detail-location {
+    font-size: 1rem;
+    color: var(--text-light);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.project-detail-header .detail-location::before {
+    content: '📍';
+    font-size: 0.9rem;
+}
+
+/* Project Gallery */
+.project-gallery {
+    margin-bottom: 60px;
+}
+
+.gallery-main {
+    width: 100%;
+    aspect-ratio: 16/9;
+    overflow: hidden;
+    margin-bottom: 16px;
+    background: #f0f0f0;
+}
+
+.gallery-main img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: var(--transition);
+}
+
+.gallery-thumbnails {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 12px;
+}
+
+.gallery-thumb {
+    aspect-ratio: 16/10;
+    overflow: hidden;
+    cursor: pointer;
+    border: 2px solid transparent;
+    transition: var(--transition);
+    background: #f0f0f0;
+}
+
+.gallery-thumb.active {
+    border-color: var(--accent);
+}
+
+.gallery-thumb:hover {
+    border-color: var(--accent);
+    opacity: 0.85;
+}
+
+.gallery-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Project Info */
+.project-detail-info {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 60px;
+    align-items: start;
+}
+
+.info-specs {
+    background: var(--secondary);
+    padding: 36px;
+}
+
+.info-specs h3 {
+    font-size: 1.1rem;
+    color: var(--primary);
+    margin-bottom: 24px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.spec-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 12px 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.spec-item:last-child {
+    border-bottom: none;
+}
+
+.spec-label {
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--text-light);
+}
+
+.spec-value {
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--primary);
+    text-align: right;
+}
+
+.info-description {
+    padding-top: 8px;
+}
+
+.info-description h3 {
+    font-size: 1.3rem;
+    color: var(--primary);
+    margin-bottom: 8px;
+}
+
+.info-description .detail-concept {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: var(--accent);
+    background: rgba(201, 169, 110, 0.1);
+    padding: 6px 14px;
+    margin-bottom: 20px;
+}
+
+.info-description p {
+    font-size: 1rem;
+    color: var(--text-light);
+    line-height: 1.9;
+}
+
+/* Not Found State */
+.project-not-found {
+    text-align: center;
+    padding: 80px 0;
+}
+
+.project-not-found h2 {
+    font-size: 2rem;
+    color: var(--primary);
+    margin-bottom: 16px;
+}
+
+.project-not-found p {
+    font-size: 1rem;
+    color: var(--text-light);
+    margin-bottom: 32px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .project-detail-section {
+        padding: 120px 0 80px;
+    }
+
+    .project-detail-info {
+        grid-template-columns: 1fr;
+        gap: 40px;
+    }
+
+    .gallery-thumbnails {
+        grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+        gap: 8px;
+    }
+
+    .info-specs {
+        padding: 24px;
+    }
+}
