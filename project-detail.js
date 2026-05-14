@@ -67,7 +67,7 @@ function renderProjectDetail(project, categoryLabel) {
     const ogImage = document.getElementById('og-image');
     if (ogTitle) ogTitle.setAttribute('content', `${project.nama_project} | AFN Design Studio`);
     if (ogDesc) ogDesc.setAttribute('content', description);
-    if (ogImage) ogImage.setAttribute('content', `https://afndesign.id/images/projects/${project.imageSlug}1.jpeg`);
+    if (ogImage) ogImage.setAttribute('content', `https://afndesign.vercel.app/images/projects/${project.imageSlug}1.jpeg`);
 
     // Update Twitter meta tags
     const twTitle = document.getElementById('twitter-title');
@@ -75,7 +75,7 @@ function renderProjectDetail(project, categoryLabel) {
     const twImage = document.getElementById('twitter-image');
     if (twTitle) twTitle.setAttribute('content', `${project.nama_project} | AFN Design Studio`);
     if (twDesc) twDesc.setAttribute('content', description);
-    if (twImage) twImage.setAttribute('content', `https://afndesign.id/images/projects/${project.imageSlug}1.jpeg`);
+    if (twImage) twImage.setAttribute('content', `https://afndesign.vercel.app/images/projects/${project.imageSlug}1.jpeg`);
 
     // Render header
     const headerEl = document.getElementById('projectHeader');
@@ -106,7 +106,7 @@ function addProjectStructuredData(project, categoryLabel) {
         "creator": {
             "@type": "Organization",
             "name": "AFN Design Studio",
-            "url": "https://afndesign.id"
+            "url": "https://afndesign.vercel.app"
         },
         "genre": categoryLabel,
         "dateCreated": project.tahun || '',
@@ -121,7 +121,7 @@ function addProjectStructuredData(project, categoryLabel) {
     }
 
     for (let i = 1; i <= project.totalImage; i++) {
-        structuredData.image.push(`https://afndesign.id/images/projects/${project.imageSlug}${i}.jpeg`);
+        structuredData.image.push(`https://afndesign.vercel.app/images/projects/${project.imageSlug}${i}.jpeg`);
     }
 
     const script = document.createElement('script');
